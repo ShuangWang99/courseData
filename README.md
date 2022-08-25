@@ -1,5 +1,13 @@
 The code is the implementation of NeuralCDM model, and the data set is based on student responses from four classes over a semester in a course called "**Modern Educational Technology and Applications**".
 
+## Process:
+
+- The crawler was used to obtain the answer data of four classes in a semester in **Modern Educational Technology and Applications**
+- By consulting relevant experts, mark the **Q matrix** according to the answer data
+- According to the Q matrix, the answer data is encoded into "0-1" JSON format
+- The annotated data is partitioned by divide_data.py in NeuralCD
+- Run the partitioned data in NeuralCD
+
 ## Dependencies:
 
 - python 3.6
