@@ -1,0 +1,10 @@
+epoch= 1, accuracy= 0.900422, rmse= 0.300173, auc= 0.754738
+epoch= 2, accuracy= 0.900422, rmse= 0.297011, auc= 0.877683
+epoch= 3, accuracy= 0.900422, rmse= 0.271349, auc= 0.904389
+epoch= 4, accuracy= 0.900422, rmse= 0.257227, auc= 0.914055
+epoch= 5, accuracy= 0.900422, rmse= 0.248081, auc= 0.917947
+epoch= 1, accuracy= 0.900422, rmse= 0.300825, auc= 0.787663
+epoch= 2, accuracy= 0.900422, rmse= 0.296001, auc= 0.882404
+epoch= 3, accuracy= 0.900422, rmse= 0.270735, auc= 0.903865
+epoch= 4, accuracy= 0.900422, rmse= 0.255980, auc= 0.912435
+epoch= 5, accuracy= 0.900422, rmse= 0.247215, auc= 0.917470
